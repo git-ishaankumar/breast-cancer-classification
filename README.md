@@ -16,7 +16,7 @@ Provides a graphical user interface to allow users to predict a tumors status wi
 ---
 ## Usage
 ```
-git clone https://github.com/code-ishaan/breast-cancer-classification.git
+git clone https://github.com/git-ishaankumar/breast-cancer-classification
 ```
 ```
 cd breast-cancer-classification
